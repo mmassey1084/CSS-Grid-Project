@@ -30,7 +30,7 @@ To view this project locally:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/css-design-project.git
+git clone https://github.com/mmassey1084/css-design-project.git
 cd css-design-project
 start index.html   # On Windows
 # or
